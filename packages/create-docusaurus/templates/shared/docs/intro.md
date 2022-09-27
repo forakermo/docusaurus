@@ -2,46 +2,38 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# **VIP PREFERRED REQUIRED MESSAGES**
 
-Let's discover **Docusaurus in less than 5 minutes**.
+The below T&C need to be displayed via hyperlink during the players ACH amount requested and during the VIP Preferred enrollment.
 
-## Getting Started
+![Shape 4](Images\amt_rqst.png)
 
-Get started by **creating a new site**.
+![Shape 3](Images\enrolling_new_cardholder.png)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## _**Terms & Conditions**_
 
-### What you'll need
+See the link:
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+[https://www.vippreferred.com/en/terms-of-service](https://www.vippreferred.com/en/terms-of-service)
 
-## Generate a new site
+|
+ |
+| --- |
+|
+ |
 
-Generate a new Docusaurus site using the **classic template**.
+## _**Decline message**_
 
-The classic template will automatically be added to your project after you run the command:
+**Use this link:**
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+[https://www.vippreferred.com/](https://www.vippreferred.com/fcra-decline-notice)[fcra](https://www.vippreferred.com/fcra-decline-notice)[-decline-notice](https://www.vippreferred.com/fcra-decline-notice)
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## _**Virtual Receipt**_
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+![](Images\receipt_example.png)
 
-## Start your site
+Privacy Policy Notice
 
-Run the development server:
+_Federal law requires us to tell you how we collect, share and protect your personal information. Our privacy policy has not changed, and you may review our policy and practices with respect to your personal information at:_
 
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+_<https://www.vippreferred.com/privacy-enrollment.html> or we will mail you a free copy upon request if you call us at the number below._ **C.A.M.S. : 800-500-1973**
